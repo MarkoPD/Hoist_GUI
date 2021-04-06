@@ -1,0 +1,4 @@
+C:\Users\Marko\Documents\Work\SA Power\Debug\HoistGUI2.vcxprojAssemblyReference.cache
+C:\Users\Marko\Documents\Work\SA Power\Debug\HoistGUI2.MyForm.resources
+C:\Users\Marko\Documents\Work\SA Power\Debug\HoistGUI2.vcxproj.GenerateResource.cache
+C:\Users\Marko\Documents\Work\SA Power\Debug\HoistGUI2.exe
